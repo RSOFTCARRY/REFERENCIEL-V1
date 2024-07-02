@@ -1,0 +1,63 @@
+p{
+    color:black;
+}
+
+body{
+    color:black;
+}
+
+.experience1
+{
+    color: black;
+    text-align : center;
+    margin: 10px;
+}
+ 
+.formations
+{
+    color:black;
+    text-align:center;
+    margin:10px;
+
+    
+
+}
+
+.main
+{
+    
+    background-color:red;
+
+}
+
+
+.Formation1
+{margin-left: 450px;
+    margin-top: 2px;
+}
+
+.experience2
+
+{
+    margin-left: 450px;
+    margin-top: 2px;
+
+}
+{
+    color:black;
+}
+.ROSSMANUFACTURE
+{
+    color:rebeccapurple
+}
+.imagehaut
+{
+top:0px;
+left:0px;
+width: 200px;
+height: 350px;
+background-image: url('portrait.jpg');
+background-repeat: no-repeat;
+background-position: left bottom ;
+position:absolute;
+}
